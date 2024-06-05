@@ -1,3 +1,9 @@
+[phone]
+other="טלפון"
+
+[address]
+other = "כתובת"
+
 [more]
 other = "עוד"
 
@@ -30,6 +36,9 @@ other = "הודעה"
 
 [emailRequiredNote]
 other = "יש להזין כתובת דואר אלקטרוני."
+
+[phoneRequiredNote]
+other="יש להזין מספר טלפון."
 
 [send]
 other = "שליחה"
